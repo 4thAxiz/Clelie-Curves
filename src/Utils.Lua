@@ -23,7 +23,7 @@ local function GetSegmentsGroup()
 
 	if not Model then
 		Model = Instance.new("Model") 
-		Model.Name = "Pattern Group Default" 
+		Model.Name = "PatternGroupDefault" 
 		Model.Parent = workspace
 	end 
 
