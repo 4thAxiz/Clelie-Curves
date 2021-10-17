@@ -1,8 +1,9 @@
 # Clelie-Curves
 
 A sphere using Clélie parametric representation
+https://en.wikipedia.org/wiki/Cl%C3%A9lie
 
-## Here are some shapes created from Clelia Curves
+## Here are some shapes created from clelia curves
 
 ![image](https://user-images.githubusercontent.com/73378249/137617688-df05dabb-8f4e-4fb7-b98f-60f737f5789d.png)
 ![image](https://user-images.githubusercontent.com/73378249/137617709-171a67f5-a9de-4e97-ab41-108006a04550.png)
